@@ -1,0 +1,5 @@
+cat katze
+dog hund
+big groß
+tree baum
+a ein
